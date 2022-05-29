@@ -1,0 +1,73 @@
+{
+	"songs": [
+		{
+			"scripts": [
+				"stages/black",
+				"modcharts/monochrome"
+			],
+			"difficulties": null,
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "monochrome"
+		},
+		{
+			"scripts": [
+				"modcharts/gfGone",
+				"stages/default_stage",
+				"modcharts/camMove"
+			],
+			"difficulties": null,
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "tutorial"
+		},
+		{
+			"scripts": [
+				"stages/day",
+				"modcharts/camMove"
+			],
+			"difficulties": null,
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "heyo"
+		},
+		{
+			"scripts": [
+				"stages/day",
+				"modcharts/camMove"
+			],
+			"difficulties": null,
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "step-it-up"
+		},
+		{
+			"scripts": [
+				"stages/day",
+				"modcharts/camMove"
+			],
+			"difficulties": null,
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "ashes"
+		},
+		{
+			"end_cutscene": null,
+			"cutscene": null,
+			"difficulties": null,
+			"scripts": [
+				"stages/skeld"
+			],
+			"name": "kirbsus"
+		},
+		{
+			"end_cutscene": null,
+			"cutscene": null,
+			"difficulties": null,
+			"scripts": [
+				"stages/skeld"
+			],
+			"name": "kirbmate"
+		}
+	]
+}

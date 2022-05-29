@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GFKirb assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="KirbGF Dancing Beat0000" x="0" y="0" width="1044" height="837"/>
+	<SubTexture name="KirbGF Dancing Beat0001" x="1044" y="0" width="1044" height="837"/>
+	<SubTexture name="KirbGF Dancing Beat0002" x="2088" y="0" width="1044" height="837"/>
+	<SubTexture name="KirbGF Dancing Beat0003" x="3132" y="0" width="1044" height="837"/>
+	<SubTexture name="KirbGF Dancing Beat0004" x="4176" y="0" width="1044" height="837"/>
+	<SubTexture name="KirbGF Dancing Beat0005" x="5220" y="0" width="1044" height="837"/>
+	<SubTexture name="KirbGF Dancing Beat0006" x="6264" y="0" width="1044" height="837"/>
+	<SubTexture name="KirbGF Dancing Beat0007" x="6264" y="0" width="1044" height="837"/>
+	<SubTexture name="KirbGF Dancing Beat0008" x="6264" y="0" width="1044" height="837"/>
+	<SubTexture name="KirbGF Dancing Beat0009" x="0" y="837" width="1044" height="837"/>
+	<SubTexture name="KirbGF Dancing Beat0010" x="0" y="837" width="1044" height="837"/>
+	<SubTexture name="KirbGF Dancing Beat0011" x="0" y="837" width="1044" height="837"/>
+	<SubTexture name="KirbGF Dancing Beat0012" x="1044" y="837" width="1044" height="837"/>
+	<SubTexture name="KirbGF Dancing Beat0013" x="1044" y="837" width="1044" height="837"/>
+	<SubTexture name="KirbGF Dancing Beat0014" x="2088" y="837" width="1044" height="837"/>
+	<SubTexture name="KirbGF Dancing Beat0015" x="3132" y="837" width="1044" height="837"/>
+	<SubTexture name="KirbGF Dancing Beat0016" x="4176" y="837" width="1044" height="837"/>
+	<SubTexture name="KirbGF Dancing Beat0017" x="5220" y="837" width="1044" height="837"/>
+	<SubTexture name="KirbGF Dancing Beat0018" x="6264" y="837" width="1044" height="837"/>
+	<SubTexture name="KirbGF Dancing Beat0019" x="0" y="1674" width="1044" height="837"/>
+	<SubTexture name="KirbGF Dancing Beat0020" x="1044" y="1674" width="1044" height="837"/>
+	<SubTexture name="KirbGF Dancing Beat0021" x="2088" y="1674" width="1044" height="837"/>
+	<SubTexture name="KirbGF Dancing Beat0022" x="2088" y="1674" width="1044" height="837"/>
+	<SubTexture name="KirbGF Dancing Beat0023" x="2088" y="1674" width="1044" height="837"/>
+	<SubTexture name="KirbGF Dancing Beat0024" x="3132" y="1674" width="1044" height="837"/>
+	<SubTexture name="KirbGF Dancing Beat0025" x="3132" y="1674" width="1044" height="837"/>
+	<SubTexture name="KirbGF Dancing Beat0026" x="4176" y="1674" width="1044" height="837"/>
+	<SubTexture name="KirbGF Dancing Beat0027" x="5220" y="1674" width="1044" height="837"/>
+	<SubTexture name="KirbGF Dancing Beat0028" x="5220" y="1674" width="1044" height="837"/>
+	<SubTexture name="KirbGF Dancing Beat0029" x="5220" y="1674" width="1044" height="837"/>
+	<SubTexture name="KirbGF Down Note0000" x="6264" y="1674" width="1044" height="837"/>
+	<SubTexture name="KirbGF Down Note0001" x="0" y="2511" width="1044" height="837"/>
+	<SubTexture name="KirbGF Down Note0002" x="1044" y="2511" width="1044" height="837"/>
+	<SubTexture name="KirbGF Down Note0003" x="2088" y="2511" width="1044" height="837"/>
+	<SubTexture name="KirbGF Down Note0004" x="3132" y="2511" width="1044" height="837"/>
+	<SubTexture name="KirbGF Down Note0005" x="3132" y="2511" width="1044" height="837"/>
+	<SubTexture name="KirbGF Down Note0006" x="3132" y="2511" width="1044" height="837"/>
+	<SubTexture name="KirbGF Down Note0007" x="3132" y="2511" width="1044" height="837"/>
+	<SubTexture name="KirbGF Down Note0008" x="3132" y="2511" width="1044" height="837"/>
+	<SubTexture name="KirbGF Down Note0009" x="3132" y="2511" width="1044" height="837"/>
+	<SubTexture name="KirbGF Down Note0010" x="3132" y="2511" width="1044" height="837"/>
+	<SubTexture name="KirbGF Down Note0011" x="3132" y="2511" width="1044" height="837"/>
+	<SubTexture name="KirbGF Down Note0012" x="3132" y="2511" width="1044" height="837"/>
+	<SubTexture name="KirbGF Down Note0013" x="3132" y="2511" width="1044" height="837"/>
+	<SubTexture name="KirbGF Down Note0014" x="3132" y="2511" width="1044" height="837"/>
+	<SubTexture name="KirbGF Down Note0015" x="3132" y="2511" width="1044" height="837"/>
+	<SubTexture name="KirbGF Down Note0016" x="3132" y="2511" width="1044" height="837"/>
+	<SubTexture name="KirbGF Down Note0017" x="3132" y="2511" width="1044" height="837"/>
+	<SubTexture name="KirbGF Down Note0018" x="3132" y="2511" width="1044" height="837"/>
+	<SubTexture name="KirbGF Down Note0019" x="3132" y="2511" width="1044" height="837"/>
+	<SubTexture name="KirbGF Right Note0000" x="4176" y="2511" width="1044" height="837"/>
+	<SubTexture name="KirbGF Right Note0001" x="5220" y="2511" width="1044" height="837"/>
+	<SubTexture name="KirbGF Right Note0002" x="6264" y="2511" width="1044" height="837"/>
+	<SubTexture name="KirbGF Right Note0003" x="0" y="3348" width="1044" height="837"/>
+	<SubTexture name="KirbGF Right Note0004" x="1044" y="3348" width="1044" height="837"/>
+	<SubTexture name="KirbGF Right Note0005" x="2088" y="3348" width="1044" height="837"/>
+	<SubTexture name="KirbGF Right Note0006" x="3132" y="3348" width="1044" height="837"/>
+	<SubTexture name="KirbGF Right Note0007" x="3132" y="3348" width="1044" height="837"/>
+	<SubTexture name="KirbGF Right Note0008" x="4176" y="3348" width="1044" height="837"/>
+	<SubTexture name="KirbGF Right Note0009" x="4176" y="3348" width="1044" height="837"/>
+	<SubTexture name="KirbGF Right Note0010" x="4176" y="3348" width="1044" height="837"/>
+	<SubTexture name="KirbGF Right Note0011" x="4176" y="3348" width="1044" height="837"/>
+	<SubTexture name="KirbGF Right Note0012" x="4176" y="3348" width="1044" height="837"/>
+	<SubTexture name="KirbGF Right Note0013" x="4176" y="3348" width="1044" height="837"/>
+	<SubTexture name="KirbGF Right Note0014" x="4176" y="3348" width="1044" height="837"/>
+	<SubTexture name="KirbGF Up Note0000" x="5220" y="3348" width="1044" height="837"/>
+	<SubTexture name="KirbGF Up Note0001" x="6264" y="3348" width="1044" height="837"/>
+	<SubTexture name="KirbGF Up Note0002" x="0" y="4185" width="1044" height="837"/>
+	<SubTexture name="KirbGF Up Note0003" x="1044" y="4185" width="1044" height="837"/>
+	<SubTexture name="KirbGF Up Note0004" x="2088" y="4185" width="1044" height="837"/>
+	<SubTexture name="KirbGF Up Note0005" x="2088" y="4185" width="1044" height="837"/>
+	<SubTexture name="KirbGF Up Note0006" x="2088" y="4185" width="1044" height="837"/>
+	<SubTexture name="KirbGF left note0000" x="3132" y="4185" width="1044" height="837"/>
+	<SubTexture name="KirbGF left note0001" x="4176" y="4185" width="1044" height="837"/>
+	<SubTexture name="KirbGF left note0002" x="5220" y="4185" width="1044" height="837"/>
+	<SubTexture name="KirbGF left note0003" x="6264" y="4185" width="1044" height="837"/>
+	<SubTexture name="KirbGF left note0004" x="0" y="5022" width="1044" height="837"/>
+	<SubTexture name="KirbGF left note0005" x="0" y="5022" width="1044" height="837"/>
+	<SubTexture name="KirbGF left note0006" x="1044" y="5022" width="1044" height="837"/>
+	<SubTexture name="KirbGF left note0007" x="2088" y="5022" width="1044" height="837"/>
+	<SubTexture name="KirbGF left note0008" x="2088" y="5022" width="1044" height="837"/>
+	<SubTexture name="KirbGF left note0009" x="3132" y="5022" width="1044" height="837"/>
+	<SubTexture name="KirbGF left note0010" x="3132" y="5022" width="1044" height="837"/>
+	<SubTexture name="KirbGF left note0011" x="3132" y="5022" width="1044" height="837"/>
+	<SubTexture name="KirbGF left note0012" x="3132" y="5022" width="1044" height="837"/>
+	<SubTexture name="KirbGF left note0013" x="3132" y="5022" width="1044" height="837"/>
+	<SubTexture name="KirbGF left note0014" x="3132" y="5022" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0000" x="4176" y="5022" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0001" x="4176" y="5022" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0002" x="5220" y="5022" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0003" x="5220" y="5022" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0004" x="6264" y="5022" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0005" x="6264" y="5022" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0006" x="0" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0007" x="0" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0008" x="1044" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0009" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0010" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0011" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0012" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0013" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0014" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0015" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0016" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0017" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0018" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0019" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0020" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0021" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0022" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0023" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0024" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0025" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0026" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0027" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0028" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0029" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0030" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0031" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0032" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0033" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0034" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0035" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0036" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0037" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0038" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0039" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0040" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0041" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0042" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0043" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0044" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0045" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0046" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0047" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0048" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0049" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0050" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0051" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0052" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0053" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0054" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0055" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0056" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0057" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0058" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0059" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0060" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0061" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0062" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0063" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0064" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0065" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0066" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0067" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0068" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0069" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0070" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0071" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0072" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0073" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0074" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0075" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0076" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0077" x="2088" y="5859" width="1044" height="837"/>
+	<SubTexture name="Kirbgf sad0078" x="2088" y="5859" width="1044" height="837"/>
+</TextureAtlas>

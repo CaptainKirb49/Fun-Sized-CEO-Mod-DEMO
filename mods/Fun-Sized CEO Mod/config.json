@@ -1,0 +1,34 @@
+{
+	"titleBarName": "Friday Night Funkin' - Vs. Lil CEO",
+	"intro": {
+		"authors": [
+			"CaptainKirb",
+			"Cloudy",
+			"Cheshire",
+			"TinCan",
+			"Rey"
+		],
+		"gameName": [
+			"Friday Night Funkin'",
+			"VS",
+			"A lot of CEOs"
+		],
+		"newgrounds": "Newgrounds",
+		"bpm": 48,
+		"assoc": [
+			"In association",
+			"with"
+		],
+		"present": "present"
+	},
+	"skinnableBFs": [],
+	"skinnableGFs": [],
+	"GFskins": [],
+	"keyNumbers": [
+		4
+	],
+	"BFskins": [],
+	"name": "Fun-Sized CEO Mod",
+	"locked": false,
+	"description": "A Mod For All of CaptainKirb's Fans. A lot of work and sanity went into this lmao"
+}

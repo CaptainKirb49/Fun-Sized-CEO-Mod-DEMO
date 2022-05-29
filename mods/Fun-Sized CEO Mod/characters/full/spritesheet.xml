@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="kirb.png"><SubTexture name="kirb idle0000" x="5006" y="0" width="1682" height="1714" frameX="-232" frameY="-155" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="kirb idle0001" x="0" y="1717" width="1655" height="1716" frameX="-243" frameY="-153" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="kirb idle0002" x="0" y="0" width="1666" height="1717" frameX="-238" frameY="-152" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="kirb idle0003" x="1666" y="0" width="1670" height="1717" frameX="-236" frameY="-152" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="kirb idle0004" x="3336" y="0" width="1670" height="1717" frameX="-236" frameY="-152" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="kirb left0000" x="0" y="3433" width="1671" height="1704" frameX="-195" frameY="-165" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="kirb left0001" x="1671" y="3433" width="1670" height="1704" frameX="-190" frameY="-165" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="kirb up0000" x="3325" y="1717" width="1666" height="1715" frameX="-237" frameY="-154" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="kirb up0001" x="1655" y="1717" width="1670" height="1716" frameX="-233" frameY="-153" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="kirb down0000" x="3341" y="3433" width="1672" height="1701" frameX="-237" frameY="-168" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="kirb down0001" x="5006" y="1714" width="1670" height="1705" frameX="-239" frameY="-164" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="kirb right0000" x="6688" y="0" width="1673" height="1686" frameX="-237" frameY="-183" frameWidth="1920" frameHeight="1920" />
+<SubTexture name="kirb right0001" x="5013" y="3433" width="1673" height="1687" frameX="-237" frameY="-182" frameWidth="1920" frameHeight="1920" />
+</TextureAtlas>

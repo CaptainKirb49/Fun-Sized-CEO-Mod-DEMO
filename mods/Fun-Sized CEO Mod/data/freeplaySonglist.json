@@ -1,0 +1,76 @@
+{
+	"songs": [
+		{
+			"displayName": null,
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"char": "tutorial",
+			"color": "#074978",
+			"name": "tutorial",
+			"bpm": 150
+		},
+		{
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": null,
+			"char": "fun-sized",
+			"bpm": 150,
+			"name": "heyo",
+			"color": "#5468BB"
+		},
+		{
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": "step it up",
+			"char": "fun-sized",
+			"bpm": 150,
+			"name": "step-it-up",
+			"color": "#2E33D1"
+		},
+		{
+			"displayName": null,
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"char": "kirbmate",
+			"color": "#0E104E",
+			"name": "kirbmate",
+			"bpm": 150
+		},
+		{
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": null,
+			"char": "kirbsus",
+			"bpm": 150,
+			"name": "kirbsus",
+			"color": "#750101"
+		},
+		{
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": null,
+			"char": "blunt",
+			"bpm": 150,
+			"name": "ashes",
+			"color": "#EC4A09"
+		}
+	]
+}
